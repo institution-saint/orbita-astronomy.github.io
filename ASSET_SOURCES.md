@@ -1,3 +1,6 @@
+## V4 refinement
+Product imagery received a subtle contrast/color/sharpness polish without changing the original framing.
+
 # ORBITA — Asset Sources
 
 ## Branding

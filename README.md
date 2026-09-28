@@ -1,3 +1,7 @@
+## V4 Update
+- Added a visible support contact strip across the storefront.
+- Refined product image rendering with a subtle photographic polish while preserving full framing.
+
 # ORBITA --- Astronomy & Space
 
 > **Look farther. Discover more.**
